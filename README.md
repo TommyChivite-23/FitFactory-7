@@ -85,7 +85,7 @@ The game also features sound effects that provide players with feedback on their
 - **XR Interaction Toolkit**: Used for managing VR-specific interactions, given the focus on hand controllers, physics interactions, and locomotion.
 - **Universal Render Pipeline (URP)**: Indicated by the reference to a forward renderer, emphasis on optimizing visual fidelity and performance in the VR environment.
 
-## Functions Implemented and Their Purposes
+## Functions Implemented 
 
 - **PhysicsRig Script**: Manages the physical representation of the player's avatar, ensuring realistic interactions with the environment, like kneeling and collision detection. I spent a lot of time learning how are changes done before the frames are updated. Useful for drawing fuctions that will alter the dynamic of the virtual environmnet. 
 - **ContinuousMovementPhysics Script**: Enables physics-based locomotion, allowing for natural movement within the VR space, addressing climbing and grounding checks. Extremely useful when whiteboxing. 
@@ -104,8 +104,27 @@ The game also features sound effects that provide players with feedback on their
 - **Environmental Interaction**: Expanding the range and depth of interactable objects and environmental effects could significantly enhance user engagement and immersion.
  
 ## :vertical_traffic_light: Running the project
+1. **Clone repository in your local machine.**
+    a. Open terminal or command prompt.
+    b. Navigate to the directory where you want to clone the repository.
+    c. Run the clone command:
+        ```bash
+        git clone https://github.com/yourusername/yourrepositoryname.git
+        ```
+    d. Change into the project directory:
+        ```bash
+        cd yourrepositoryname
+        ```
+2. **Install Dependencies**
+    a. Using Unity
+        i. You might not need to install dependencies manually.
+3. **Running the Project**
+    a. Open Unity Hub.
+    b. Click "Add" and navigate to the cloned project folder.
+    c. Select the project to add it to the Hub.
 
-## Video
+
+## :video_camera: Video
 [![Watch the video](https://img.youtube.com/vi/GtpaSzc2XyE/0.jpg)](https://youtu.be/GtpaSzc2XyE)
 
 
