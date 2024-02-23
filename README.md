@@ -62,15 +62,15 @@ Here is what you can do with FitFactory-7:
 FitFactory-7 showcases a minimalistic visual with a plain white color that will immerse players in the workout. The virtual environments intents to reduce the distractions to its most basic an essential component, allowing your body and mind to be fully focus on your body moments.
 
 ## :headphones: Audio:
-The game will be only featuring an upbeat music that corresponds to the workout. The music is carefully selected to match the tempo and rhythm of the exercises, providing the player with an immersive and engaging experience. In this case, we will use the song Unity by “The Fat Rat.” To calculate the tempo or beats per minute (BPM):
+The game will be only featuring an upbeat music that corresponds to the workout. The music is carefully selected to match the tempo and rhythm of the exercises, providing the player with an immersive and engaging experience. In this case, we will use the song Unity by “The Fat Rat.” 
 
--Identify a repeating rhythm, such as the bass drum or a snare hit. 
--Count the number of beats that occur in 15 seconds using a stopwatch or timer.
--Multiply the number of beats counted in 15 seconds by 4. This will give you the number of beats in one minute.
--Round the result to the nearest whole number. This is the song's BPM.
+- **To calculate the tempo or beats per minute (BPM):**
+- Identify a repeating rhythm, such as the bass drum or a snare hit.
+- Count the number of beats that occur in 15 seconds using a stopwatch or timer.
+- Multiply the number of beats counted in 15 seconds by 4. This will give you the number of beats in one minute.Round the result to the nearest whole number. This is the song's BPM.
 
 In this specific scenario, the song is 105 beats/minute so if you want to calculate how many seconds between beats you must divide the 60/105 and you will obtain the seconds between beats.  
- The game also features sound effects that provide players with feedback on their performance, such as the sound of a punch landing or an avoiding being hit by an intruder.
+The game also features sound effects that provide players with feedback on their performance, such as the sound of a punch landing or an avoiding being hit by an intruder.
 
 ## :books: What I learned: 
 
@@ -106,5 +106,6 @@ In this specific scenario, the song is 105 beats/minute so if you want to calcul
 ## :vertical_traffic_light: Running the project
 
 ## Video
+[![Watch the video](https://img.youtube.com/vi/GtpaSzc2XyE/0.jpg)](https://youtu.be/GtpaSzc2XyE)
 
 
