@@ -104,24 +104,27 @@ The game also features sound effects that provide players with feedback on their
 - **Environmental Interaction**: Expanding the range and depth of interactable objects and environmental effects could significantly enhance user engagement and immersion.
  
 ## :vertical_traffic_light: Running the project
-1. **Clone repository in your local machine.**
-    a. Open terminal or command prompt.
-    b. Navigate to the directory where you want to clone the repository.
-    c. Run the clone command:
-        ```bash
-        git clone https://github.com/yourusername/yourrepositoryname.git
-        ```
-    d. Change into the project directory:
-        ```bash
-        cd yourrepositoryname
-        ```
-2. **Install Dependencies**
-    a. Using Unity
-        i. You might not need to install dependencies manually.
-3. **Running the Project**
-    a. Open Unity Hub.
-    b. Click "Add" and navigate to the cloned project folder.
-    c. Select the project to add it to the Hub.
+- **Clone repository in your local machine.**
+  - Open terminal or command prompt.
+  - Navigate to the directory where you want to clone the repository.
+  - Run the clone command:
+    ```bash
+    git clone https://github.com/yourusername/yourrepositoryname.git
+    ```
+  - Change into the project directory:
+    ```bash
+    cd yourrepositoryname
+    ```
+
+- **Install Dependencies**
+  - Using Unity
+    - You might not need to install dependencies manually.
+
+- **Running the Project**
+  - Open Unity Hub.
+  - Click "Add" and navigate to the cloned project folder.
+  - Select the project to add it to the Hub.
+
 
 
 ## :video_camera: Video
