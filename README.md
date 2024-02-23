@@ -1,4 +1,4 @@
-# FitFactory-7
+# :video_game: FitFactory-7
 
 Overview:
 FitFactory-7 is a virtual reality fitness game that aims to make exercising fun and interactive for players. The game features a combination of cardio, boxing, dance and HIIT (High-Intensity Interval Training) all while immersed in a virtual world. FitFactory-7 is designed for players of all fitness levels, providing a gamified approach to fitness that encourages players to exercise regularly.
